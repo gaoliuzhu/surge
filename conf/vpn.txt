@@ -1,0 +1,3 @@
+🏠 en0 | 局域网= direct, interface=en0, allow-other-interface=false, test-url=http://192.168.3.254/users/sign_in
+🛜 en1 | 局域网= direct, interface=en1, allow-other-interface=false, test-url=http://192.168.3.254/users/sign_in
+✈️ openvpn | 局域网= direct, interface=utun8, allow-other-interface=false, test-url=http://192.168.3.254/users/sign_in
